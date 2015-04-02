@@ -12,7 +12,7 @@ entity testbench is
 	generic(
 		clk_per_sysclk: time :=20 ns; --50MHz
 		number_patterns : INTEGER := 20;
-		number_data : INTEGER := 1 );
+		number_data : INTEGER := 10 );
 end testbench;
 
 architecture tb_arch of testbench is

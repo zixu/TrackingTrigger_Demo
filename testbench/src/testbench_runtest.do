@@ -30,30 +30,6 @@ wave -noreg layer
 wave -noreg addr              
 wave -noreg pattern             
   
-run 140000 ns
+run 20000 ns
+#run 140000 ns
 #run 670000 ns
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
